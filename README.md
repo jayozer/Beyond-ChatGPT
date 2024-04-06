@@ -1,3 +1,13 @@
+---
+title: Kids Dental FAQ 
+emoji: 🦷
+colorFrom: blue
+colorTo: yellow
+sdk: docker
+pinned: false
+app_port: 7860
+---
+
 ## <h1 align="center" id="heading">Kids Dental FAQ Bot! 🦷</h1>
 
 
